@@ -1,5 +1,4 @@
-
- # Yo.
+# Yo.
 <p align="center">
   <img width="4096" height="2897" alt="лаки чарм" src="https://github.com/user-attachments/assets/8366f658-0043-452d-ae42-e3e647e7359d" width="200" alt="Daheyasi Art">
 </p>
