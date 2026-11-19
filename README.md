@@ -1,4 +1,4 @@
-# Yo.
+# WIP
 
 I draw ponies and anthro characters. 
 
